@@ -69,4 +69,4 @@ It is a historical data set on the modern Olympic Games,:date: from Athens  1896
 
 <img src="images/pandas.png"
      alt="Markdown Monster icon"
-     style="float: left; width:fit-content;margin-left:32%;" />
+     style=" width:fit-content !important;margin-left:32% !important;" />
