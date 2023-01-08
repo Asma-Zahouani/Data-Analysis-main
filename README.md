@@ -19,7 +19,7 @@ DA project
   
 
 ## :file_folder: dataset
-This is a historical data set on the modern Olympic Games,:date: from Athens  1896 to Rio 2016, Each row consists of an individual athlete competing in an Olympic event and which medal was won :
+It is a historical data set on the modern Olympic Games,:date: from Athens  1896 to Rio 2016, Each row consists of an individual athlete competing in an Olympic event and which medal was won :
 
 |    |   id | name                     | sex   |   age |   height |   weight | team           | noc   | games       |   year | season   | city      | sport         | event                            | medal   |
 |---:|-----:|:-------------------------|:------|------:|---------:|---------:|:---------------|:------|:------------|-------:|:---------|:----------|:--------------|:---------------------------------|:--------|
