@@ -3,7 +3,7 @@ DA project
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/PB/main?labpath=index.ipynb)
 
-## This is mini projet with the following tasks:
+## This is a mini projet with the following tasks:
 * Importing necessary packages
 * Extracting valuable information from the dataset
   * Checking The Shape of The Dataframe
