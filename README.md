@@ -38,15 +38,23 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |event    |Event                          |
 |medal    |Gold, Silver, Bronze, or NA    |
 
-* Data understanding
-* Data preprocessing
-* Analyse
- * Statistiques
- * Visualisation
+
+* Compréhension des données
+* prétraitement des données
+* analyse
+  * Statistiques
+  * Visualisation
 * Conclusion
-  
 
 
-  <img src="https://seeklogo.com//images/P/pandas-logo-776F6D45BB-seeklogo.com.png"
+
+
+
+
+
+
+
+
+<img src="images/pandas.png"
      alt="Markdown Monster icon"
      style="float: left; margin-center: 10px;" />
