@@ -8,7 +8,7 @@ DA project
 2)
 3)
 ## :file_folder: dataset
-This is a historical data set on the modern Olympic Games,:date: from Athens  1896 to Rio 2016.Each row consists of an individual athlete competing in an Olympic event and which medal was won :
+This is a historical data set on the modern Olympic Games,:date: from Athens  1896 to Rio 2016, Each row consists of an individual athlete competing in an Olympic event and which medal was won :
 
 |    |   id | name                     | sex   |   age |   height |   weight | team           | noc   | games       |   year | season   | city      | sport         | event                            | medal   |
 |---:|-----:|:-------------------------|:------|------:|---------:|---------:|:---------------|:------|:------------|-------:|:---------|:----------|:--------------|:---------------------------------|:--------|
@@ -18,10 +18,10 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |  3 |    4 | Edgar Lindenau Aabye     | M     |    34 |      nan |      nan | Denmark/Sweden | DEN   | 1900 Summer |   1900 | Summer   | Paris     | Tug-Of-War    | Tug-Of-War Men's Tug-Of-War      | Gold    |
 |  4 |    5 | Christine Jacoba Aaftink | F     |    21 |      185 |       82 | Netherlands    | NED   | 1988 Winter |   1988 | Winter   | Calgary   | Speed Skating | Speed Skating Women's 500 metres | nan     |
 
-## :dictionnary: Data Dictionary
+## :closed_book: Data Dictionary
 
 |Column   |Explanation                   |
-| ------- | ---------------------------- |
+|:-------:|:----------------------------:|
 |id       |Unique number for each athlete |
 |name     |Athlete's name                 |
 |sex      |M or F                         |
@@ -37,3 +37,16 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |sport    |Sport                          |
 |event    |Event                          |
 |medal    |Gold, Silver, Bronze, or NA    |
+
+* Data understanding
+* Data preprocessing
+* Analyse
+ * Statistiques
+ * Visualisation
+* Conclusion
+  
+
+
+  <img src="https://seeklogo.com//images/P/pandas-logo-776F6D45BB-seeklogo.com.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-center: 10px;" />
