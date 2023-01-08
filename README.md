@@ -3,10 +3,21 @@ DA project
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/PB/main?labpath=index.ipynb)
 
-## Ceci est un mini projet 
-1)
-2)
-3)
+## Ceci est un mini projet qui a comme tasks:
+* Importing necessary packages
+* Extracting valuable information from the dataset
+  * Checking The Shape of The Dataframe
+  * Checking The Null Values
+  * Checking Duplicated Values
+  * Checking The Types Of Data
+* Exploring And Analysing The DataFrame
+#In which year and city did the Netherlands win the highest number of medals in their history?
+* Visualizing
+#Visualizing the number of players send by the country on each event vs the number of medals they recieve.
+#visualizing first, second and third world countries and their respective performances in Olympics over these years.
+* Conclusion
+  
+
 ## :file_folder: dataset
 This is a historical data set on the modern Olympic Games,:date: from Athens  1896 to Rio 2016, Each row consists of an individual athlete competing in an Olympic event and which medal was won :
 
@@ -39,16 +50,14 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |medal    |Gold, Silver, Bronze, or NA    |
 
 
+
+## Includes
 * Data understanding
 * Data preprocessing
 * Analyse
   * Statistics
   * Visualisation
 * Conclusion
-
-
-
-
 
 
 
