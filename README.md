@@ -1,7 +1,8 @@
 # Olympics Project
 DA project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/PB/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/Data-Analysis-main/master?labpath=index.ipynb)
+
 
 ## This is a mini project with the following tasks:
 * Importing necessary packages
