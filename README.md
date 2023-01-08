@@ -24,3 +24,23 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |  2 |    3 | Gunnar Nielsen Aaby      | M     |    24 |      nan |      nan | Denmark        | DEN   | 1920 Summer |   1920 | Summer   | Antwerpen | Football      | Football Men's Football          | nan     |
 |  3 |    4 | Edgar Lindenau Aabye     | M     |    34 |      nan |      nan | Denmark/Sweden | DEN   | 1900 Summer |   1900 | Summer   | Paris     | Tug-Of-War    | Tug-Of-War Men's Tug-Of-War      | Gold    |
 |  4 |    5 | Christine Jacoba Aaftink | F     |    21 |      185 |       82 | Netherlands    | NED   | 1988 Winter |   1988 | Winter   | Calgary   | Speed Skating | Speed Skating Women's 500 metres | nan     |
+
+## :dictionnary: Data Dictionary
+
+|Column   |Explanation                   |
+| ------- | ---------------------------- |
+|id       |Unique number for each athlete |
+|name     |Athlete's name                 |
+|sex      |M or F                         |
+|age      |Age of the athlete                        |
+|height   |In centimeters                 |
+|weight   |In kilograms                   |
+|team     |Team name                      |
+|noc      |National Olympic Committee 3   |
+|games    |Year and season                |
+|year     |Integer                        |
+|season   |Summer or Winter               |
+|city     |Host city                      |
+|sport    |Sport                          |
+|event    |Event                          |
+|medal    |Gold, Silver, Bronze, or NA    |
