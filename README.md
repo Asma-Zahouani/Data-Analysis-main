@@ -1,5 +1,5 @@
 # Olympics Project
-DA project
+DA Project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/Data-Analysis-main/master?labpath=index.ipynb)
 
 
