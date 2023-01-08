@@ -39,10 +39,10 @@ This is a historical data set on the modern Olympic Games,:date: from Athens  18
 |medal    |Gold, Silver, Bronze, or NA    |
 
 
-* Compréhension des données
-* prétraitement des données
-* analyse
-  * Statistiques
+* Data understanding
+* Data preprocessing
+* Analyse
+  * Statistics
   * Visualisation
 * Conclusion
 
