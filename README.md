@@ -2,8 +2,6 @@
 DA project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/Data-Analysis-main/master?labpath=index.ipynb)
 
-Presentation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/Data-Analysis-main/master?labpath=presentation.ipynb)
 
 
 ## This is a mini project with the following tasks:
